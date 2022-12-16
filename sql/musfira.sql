@@ -1,3 +1,3 @@
 SELECT *
 FROM doodle.bi_team
-WHERE email = '?????';
+WHERE email = 'musfira.zamir@doodle.com';
